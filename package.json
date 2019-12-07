@@ -11,6 +11,16 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-jwt": "^3.6.0",
+    "koa-mysql-session": "0.0.2",
+    "koa-session-minimal": "^3.0.4",
+    "koa2-cors": "^2.0.6",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "save": "^2.4.0",
     "superagent": "^5.1.2"
   }
 }
